@@ -1,0 +1,102 @@
+[
+    {
+      "_uid": "1",
+      "component": "configList",
+      "content": [
+        {
+          "_uid": "2",
+          "component": "configNote",
+          "content": "test_1",
+          "name": "mode_id"
+        },
+        {
+          "_uid": "3",
+          "component": "configNote",
+          "content": "",
+          "name": "model_name"
+        },
+        {
+          "_uid": "4",
+          "component": "configNote",
+          "content": "",
+          "name": "model_division"
+        },
+        {
+          "_uid": "5",
+          "component": "configNote",
+          "content": "",
+          "name": "model_block"
+        }
+      ],
+      "name": "supporting_info"
+    },
+    {
+      "_uid" : "6",
+      "component" : "configNote",
+      "name" : "model_id",
+      "content" : ""
+    },
+    {
+      "_uid" : "7",
+      "name": "prod_repo",
+      "component" : "configNote",
+      "content" : ""
+    },
+    {
+      "_uid" : "8",
+      "name" : "dev_repo",
+      "component" : "configNote",
+      "content" : ""
+    },
+    {
+      "_uid" : "9",
+      "name" : "dev_branch",
+      "component" : "configNote",
+      "content" : ""
+    },
+    {
+      "_uid" : "10",
+      "name" : "data",
+      "component" : "configList",
+      "content" : [
+        {
+          "_uid" : "11",
+          "name" : "dev",
+          "component" : "configList",
+          "content" : [
+            {
+              "_uid" : "12",
+              "name" : "link",
+              "component" : "configNote",
+              "content" : ""
+            },
+            {
+              "_uid" : "13",
+              "name" : "features",
+              "component" : "configNote",
+              "content" : ""
+            }
+          ]
+        },
+        {
+          "_uid" : "14",
+          "name" : "prom",
+          "component" : "configList",
+          "content" : [
+            {
+              "_uid" : "15",
+              "name" : "link",
+              "component" : "configNote",
+              "content" : ""
+            },
+            {
+              "_uid" : "16",
+              "name" : "features",
+              "component" : "configNote",
+              "content" : ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
